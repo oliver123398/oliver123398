@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "AeroSound Pro",
+    "category": "Audio",
+    "price": 129.0,
+    "description": "Wireless noise-cancelling headphones",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=850&q=85",
+    "badge": "Best Seller"
+  },
+  {
+    "id": 2,
+    "name": "NovaBook Air",
+    "category": "Computers",
+    "price": 899.0,
+    "description": "Slim laptop for work and creativity",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=850&q=85",
+    "badge": "New"
+  },
+  {
+    "id": 3,
+    "name": "Pulse Mechanical",
+    "category": "Gaming",
+    "price": 89.0,
+    "description": "RGB mechanical keyboard",
+    "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?auto=format&fit=crop&w=850&q=85",
+    "badge": "Popular"
+  },
+  {
+    "id": 4,
+    "name": "Orbit Wireless",
+    "category": "Accessories",
+    "price": 49.0,
+    "description": "Precision wireless mouse",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=850&q=85",
+    "badge": ""
+  },
+  {
+    "id": 5,
+    "name": "Chrono Smartwatch",
+    "category": "Smart Tech",
+    "price": 179.0,
+    "description": "Stay connected throughout your day",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=850&q=85",
+    "badge": "New"
+  },
+  {
+    "id": 6,
+    "name": "Studio Speaker",
+    "category": "Audio",
+    "price": 149.0,
+    "description": "Rich sound in a minimal design",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=850&q=85",
+    "badge": ""
+  },
+  {
+    "id": 7,
+    "name": "Vision Monitor 27",
+    "category": "Computers",
+    "price": 329.0,
+    "description": "Crisp display for your workspace",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=850&q=85",
+    "badge": ""
+  },
+  {
+    "id": 8,
+    "name": "PowerDock USB-C",
+    "category": "Accessories",
+    "price": 69.0,
+    "description": "One hub for your essential devices",
+    "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=850&q=85",
+    "badge": ""
+  }
+]

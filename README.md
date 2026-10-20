@@ -1,61 +1,28 @@
-# ⚡ OLIVER123398
-### Electronics & Tech Store
+# OLIVER123398 — Electronics & Tech Store
 
 **Power Your Digital World.**
 
-Welcome to **OLIVER123398**, your destination for innovative electronics, smart gadgets, computer accessories, and next-generation technology.
+A premium, responsive demo electronics storefront with an electric-blue, black and white visual identity.
 
-We believe technology should be modern, accessible, and designed to make everyday life better.
+## Features
+- Mobile-friendly home page and product catalog
+- Category filters and live product search
+- Add-to-cart drawer with quantity controls
+- Shopping bag persists in browser localStorage
+- Prices in USD and English interface
+- Static HTML/CSS/JS — no build step required
 
----
+## Publish with GitHub Pages
+1. Extract this ZIP.
+2. Upload `index.html`, `styles.css`, `app.js`, `products.json`, and `README.md` to the root of your repository.
+3. Open repository **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then **Save**.
+5. Open the Pages URL after GitHub finishes deployment.
 
-## 🚀 About Us
+## Customize
+Edit the `products` array at the beginning of `app.js` to update catalog items, images and prices. `products.json` is an optional reference copy; the live storefront reads the `app.js` array.
 
-**OLIVER123398** is a modern electronics and technology brand focused on providing a professional online shopping experience.
+## Important
+This is a **demo storefront**, not a live e-commerce checkout. There is no payment processing, order fulfillment, or backend. Product names and prices are illustrative, not verified offers. Images load from Unsplash and require an internet connection. Before commercial use, replace demo products, confirm image rights, and integrate a secure checkout/payment provider.
 
-Our mission is to connect customers with exciting technology, practical electronic accessories, and innovative digital solutions.
-
-## 🛍️ Our Product Categories
-
-- 💻 **Computers & Laptops** — Modern computing solutions and accessories.
-- 🎧 **Audio & Headphones** — Wireless headphones, speakers, and audio essentials.
-- ⌨️ **Gaming Accessories** — Keyboards, gaming mice, controllers, and setups.
-- 📱 **Mobile Accessories** — Chargers, cables, stands, and smartphone essentials.
-- ⌚ **Smart Devices** — Smartwatches and connected technology.
-- 🔌 **Electronics & Gadgets** — Innovative devices for everyday use.
-
-## 💎 Why Choose OLIVER123398?
-
-✅ Modern and innovative technology
-
-✅ Professional shopping experience
-
-✅ Carefully selected product categories
-
-✅ Clean and user-friendly website
-
-✅ Passion for electronics and innovation
-
-## 🌐 Our Vision
-
-To build a recognizable electronics brand that brings technology, convenience, and innovation together in one digital destination.
-
-## 🎯 Our Mission
-
-To make discovering and shopping for electronic products simple, enjoyable, and accessible.
-
-## 🎨 Brand Identity
-
-- **Brand:** OLIVER123398
-- **Industry:** Electronics & Technology
-- **Primary Color:** Electric Blue `#087BFF`
-- **Secondary Color:** Dark Black `#0B1220`
-- **Accent Color:** White `#FFFFFF`
-- **Language:** English
-- **Slogan:** Power Your Digital World.
-
-## 📬 Contact & Updates
-
-Follow our GitHub profile for website updates, new projects, and future developments.
-
-*
+© 2026 OLIVER123398.
